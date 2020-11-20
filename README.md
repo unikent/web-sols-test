@@ -1,6 +1,6 @@
 # University of Kent Web Solutions team - Part time developer test
 
-This is a simple test utilising vue.js to enable us to determine your understanding of git, command line, npm, and js. You have 24 hours upon receving instruction to commit back your results of the test, but you are not required to have finished the test within that time. Please complete what you can within the time provided.
+This is a simple test utilising vue.js to enable us to determine your understanding of git, command line, npm, and js. You have 24 hours upon receiving instruction to send us back your results of the test, but you are not required to have finished the test within that time. Please complete what you can within the time provided.
 
 ## Intended result
 University of Kent websites make use of an online publication service called Kent Academic Repository (KAR). This test calls KAR, retrieves a predetermined number of posts, and then displays them on the page. Additionally, you can view an abstract of each post and follow a link to view the publication within KAR.
